@@ -1,0 +1,10 @@
+Sprint 1
+
+User CRUD
+System should be able to CRUD User. User should be registeration should be on mobile number. So mobile number is userId for User. System should maintain its own userId, which will map to mobile number. System should allow users to change mobile numbers.
+
+User Verification via OTP (through registered mobile number) is a must. 
+
+There will not be any Role assigned to a User. User Attributes are Name, Mobile Number, Picture, Email. 
+
+System should support Forgot Password via OTP.

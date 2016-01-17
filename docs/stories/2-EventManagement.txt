@@ -1,0 +1,5 @@
+
+System Should allow Users to CRUD Event. Every Event will have one or more Admin. By Default Creator is an admin & any Admin should be able to add new Admin, Only creator can delete the Event.
+
+Event will have attributes like Name, Picture, Location, Members/Contributors & EventType. Admin should be able to add/remove members.
+
