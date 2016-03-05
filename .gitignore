@@ -2,3 +2,6 @@
 .idea/gradle.xml
 user-services/.gradle/2.11/taskArtifacts/cache.properties.lock
 user-services/.gradle/*
+
+
+user-services/build/*
